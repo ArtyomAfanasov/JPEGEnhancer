@@ -1,1 +1,1 @@
-# JPEGEnhancer
+# JPEGEnhancer. ITMO task.
