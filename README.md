@@ -1,1 +1,3 @@
 # JPEGEnhancer
+
+ToDo: refactoring
